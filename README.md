@@ -6,6 +6,8 @@ My projects range from **soft robotic sensing research** to **safety-critical el
 
 Much of my work focuses on understanding how robotic systems interact with the real world through sensing, control, and system design.
 
+[My Website](https://nikhilranjit.com)
+
 ---
 
 # Featured Projects
